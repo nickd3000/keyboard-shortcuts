@@ -35,6 +35,18 @@ https://www.keychron.com / https://www.keychron.uk
 
 ----------------------------------------------
 
+# Meletrix
+
+https://meletrix.com
+
+## RGB Control
+
+| Model    | Effect | Hue        | Saturation | Brightness   | Speed        | Lights On / Off |
+|----------|--------|------------|------------|--------------|--------------|-----------------|
+| Zoom TKL | FN + ] | FN + P / ; | FN [ / '   | FN + ⬆️ / ⬇️ | FN + ⬅️ / ➡️ | FN + \          |
+
+----------------------------------------------
+
 # Nuphy
 
 https://nuphy.com
