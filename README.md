@@ -6,13 +6,13 @@ Mechanical Keyboard Shortcuts and Functions
 
 https://epomaker.com
 
-## RGB Control
+### RGB Control
 
 | Model    | Effect | Color  | Brightness   | Speed        |
 |----------|--------|--------|--------------|--------------|
 | TH80 Pro | FN + \ | FN + P | FN + ⬆️ / ⬇️ | FN + ⬅️ / ➡️ |
 
-## Extra Functions
+### Extra Functions
 
 | Model    | Connection         | Wired Mode | Factory Reset |
 |----------|--------------------|------------|---------------|
@@ -24,7 +24,7 @@ https://epomaker.com
 
 https://www.keychron.com / https://www.keychron.uk
 
-## RGB Control
+### RGB Control
 
 | Model  | Effect     | Hue        | Saturation | Brightness | Speed      | Lights On / Off |
 |--------|------------|------------|------------|------------|------------|-----------------|
@@ -39,7 +39,7 @@ https://www.keychron.com / https://www.keychron.uk
 
 https://meletrix.com
 
-## RGB Control
+### RGB Control
 
 | Model    | Effect | Hue        | Saturation | Brightness   | Speed        | Lights On / Off |
 |----------|--------|------------|------------|--------------|--------------|-----------------|
@@ -51,7 +51,7 @@ https://meletrix.com
 
 https://nuphy.com
 
-## RGB Control
+### RGB Control
 
 | Model   | Effect    | Color     | Brightness   | Speed      |
 |---------|-----------|-----------|--------------|------------|
@@ -64,7 +64,7 @@ https://nuphy.com
 | Field75 | FN + Home | FN + PgDn | FN + End     | FN + PgUp  |
 |         |           |           |              |            |
 
-## Extra Functions
+### Extra Functions
 
 | Model   | Connection         | Factory Reset |
 |---------|--------------------|---------------|
