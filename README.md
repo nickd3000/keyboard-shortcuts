@@ -8,15 +8,17 @@ https://epomaker.com
 
 ### RGB Control
 
-| Model    | Effect | Color  | Brightness   | Speed        |
-|----------|--------|--------|--------------|--------------|
-| TH80 Pro | FN + \ | FN + P | FN + ⬆️ / ⬇️ | FN + ⬅️ / ➡️ |
+| Model    | Effect         | Color  | Brightness   | Speed        |
+|----------|----------------|--------|--------------|--------------|
+| TH80 Pro | FN + \         | FN + P | FN + ⬆️ / ⬇️ | FN + ⬅️ / ➡️ |
+| EP64     | FN + I / O / P | FN + " | FN + < / >   | FN + [ / ]   |
 
 ### Extra Functions
 
 | Model    | Connection         | Wired Mode | Factory Reset |
 |----------|--------------------|------------|---------------|
 | TH80 Pro | FN + 1 / 2 / 3 / 4 | FN + 5     | FN + Esc      |
+| EP64     | FN + Q / W / E     | FN + A     |               |
 
 ----------------------------------------------
 
