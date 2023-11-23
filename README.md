@@ -2,6 +2,9 @@
 
 Mechanical Keyboard Shortcuts and Functions
 
+
+----------------------------------------------
+
 # Cooler Master
 
 ### RGB Control
@@ -88,6 +91,16 @@ https://nuphy.com
 | Halo96  | FN + 1 / 2 / 3 / 4 | FN + X + B    |
 | Field75 | FN + 1 / 2 / 3 / 4 |               |
 |         |                    |               |
+
+----------------------------------------------
+
+# Redragon
+
+### RGB Control
+
+| Model | Effect | Hue      | Saturation | Brightness | Speed | Side Lights |
+|-------|--------|----------|------------|------------|-------|-------------|
+| ALL?  |        | FN +  ➡️ |            | FN + ⬇️    |       | FN + PAUSE  |
 
 ----------------------------------------------
 
