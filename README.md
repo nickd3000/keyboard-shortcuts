@@ -96,6 +96,8 @@ https://nuphy.com
 
 # Redragon
 
+https://redragonshop.com
+
 ### RGB Control
 
 | Model | Effect | Hue      | Saturation | Brightness | Speed | Side Lights |
@@ -108,11 +110,12 @@ https://nuphy.com
 
 ### RGB Control
 
-| Model    | Effect    | Hue      | Saturation | Brightness   | Speed        | Lights On / Off |
-|----------|-----------|----------|------------|--------------|--------------|-----------------|
-| RK61     | FN + \    | FN + >   |            | FN + [ / ]   | FN + " / ;   |                 |
-| RK84?    | FN + Home | FN + End |            | FN + ⬆️ / ⬇️ | FN + ⬅️ / ➡️ |                 |
-| RK84 Pro | FN + Home | FN + End |            | FN + ⬆️ / ⬇️ | FN + ⬅️ / ➡️ |                 |
+| Model    | Effect     | Hue       | Saturation | Brightness   | Speed        | Lights On / Off |
+|----------|------------|-----------|------------|--------------|--------------|-----------------|
+| RK61     | FN + \     | FN + >    |            | FN + [ / ]   | FN + " / ;   |                 |
+| RK84?    | FN + Home  | FN + End  |            | FN + ⬆️ / ⬇️ | FN + ⬅️ / ➡️ |                 |
+| RK84 Pro | FN + Home  | FN + End  |            | FN + ⬆️ / ⬇️ | FN + ⬅️ / ➡️ |                 |
+| RK87     | FN + ScrLk | FN + PgUp |            | FN + ⬆️ / ⬇️ | FN + ⬅️ / ➡️ |                 |
 
 ----------------------------------------------
 
