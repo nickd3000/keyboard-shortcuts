@@ -2,6 +2,16 @@
 
 Mechanical Keyboard Shortcuts and Functions
 
+# Cooler Master
+
+### RGB Control
+
+| Model | Brightness | Quick Pick | R / G / B      | LED Mode | Foreground Effect | BG Effect |
+|-------|------------|------------|----------------|----------|-------------------|-----------|
+| CK720 | FN + A     | FN + Q     | FN + W / E / R | FN + T   | FN + FN + Y       | FN + U    |
+
+----------------------------------------------
+
 # Epomaker
 
 https://epomaker.com
